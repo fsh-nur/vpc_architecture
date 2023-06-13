@@ -135,12 +135,15 @@ HTTP access for PORT 80 from 0.0.0.0/0
 Custom TCP for PORT 3000 from 0.0.0.0/0
 ```
 6. For the **private-db** instance:
+
 *The `auto-assign public IP` should be **disabled***
 
 ```
 Custom TCP for PORT 27017 from PUBLIC SUBNET IP
 SSH for PORT 22 from MY IP
 ```
+
+-- there would not be any traffic into the database
 ## Connecting the APP to DB in terminal
 
 1. SSH into the app instance
