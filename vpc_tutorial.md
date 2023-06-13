@@ -163,11 +163,13 @@ node app.js
 
 
 
+![app](https://github.com/fsh-nur/vpc_architecture/assets/129324316/21d281ab-70bc-4c28-9442-5eb27df15fd8)
 
 
 
 
 
+![fib](https://github.com/fsh-nur/vpc_architecture/assets/129324316/61914081-2863-4ea4-ab38-0a2eb52a861a)
 
 
 
